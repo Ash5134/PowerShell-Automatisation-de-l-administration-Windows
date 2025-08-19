@@ -1,4 +1,4 @@
-# PowerShell – Automatisation de l’administration Windows
+# Powershell – Automatisation de l’administration Windows
 
 ## 📖 Description
 Développement de scripts PowerShell pour automatiser l’administration Windows, notamment la gestion d’utilisateurs, de groupes et d’unités d’organisation dans Active Directory, ainsi que la supervision des services et processus. Les scripts intègrent également des menus CLI interactifs pour centraliser les tâches.
